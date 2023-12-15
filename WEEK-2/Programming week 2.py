@@ -1,6 +1,6 @@
 # Qno.1
 name = input("Hello, what is your name? ")
-print("Hello " + name + ".  It's good to meet you!")
+print("Hello " + name + ".  It is good to meet you!")
 
 
 # Qno.2 
