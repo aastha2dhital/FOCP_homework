@@ -93,4 +93,4 @@ else:
 
     print(f"\nMaximum Temperature: {max_temp}")
     print(f"Minimum Temperature: {min_temp}")
-    print(f"Mean Temperature: {mean_temp}")
+    print(f"Mean Temperature is : {mean_temp}")
