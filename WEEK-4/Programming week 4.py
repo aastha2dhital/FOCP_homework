@@ -8,7 +8,7 @@ print(result1)
 def case_checker(current_string):
     for char in current_string:
         print(char)
-case_checker("hYAAaaaa")
+case_checker("ohhHoo")
 
 # Qno.3 
 def greetings(name):
